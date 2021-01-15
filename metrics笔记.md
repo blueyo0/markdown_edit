@@ -1,4 +1,4 @@
-# 随手记——几个深度常见metrics
+# 随手记——几个深度学习常见metrics
 
 ## kappa
 
